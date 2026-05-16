@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+build/
+.npm
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Docker
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Infrastructure
+.terraform/
+*.tfstate
+*.tfstate.backup
