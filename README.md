@@ -162,4 +162,4 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ⚡ by NEXUS OS — Where AGI Meets Engineering*
+*Built by Ananthapadmanabhan 
